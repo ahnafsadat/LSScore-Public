@@ -1,0 +1,13 @@
+numpy
+sentence-transformers
+torch
+tqdm
+tabulate
+scipy
+evaluate
+pandas
+rouge_score
+bert_score
+tensorflow
+tensorflow_hub
+tensorflow_text
